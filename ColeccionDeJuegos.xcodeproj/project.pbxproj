@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38309EA4236E5CC9007DC11C /* JuegoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38309EA3236E5CC9007DC11C /* JuegoViewController.swift */; };
 		3837CB36236CD1190061655C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837CB35236CD1190061655C /* AppDelegate.swift */; };
 		3837CB38236CD1190061655C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837CB37236CD1190061655C /* SceneDelegate.swift */; };
 		3837CB3A236CD1190061655C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837CB39236CD1190061655C /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		38309EA3236E5CC9007DC11C /* JuegoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoViewController.swift; sourceTree = "<group>"; };
 		3837CB32236CD1190061655C /* ColeccionDeJuegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColeccionDeJuegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3837CB35236CD1190061655C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3837CB37236CD1190061655C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				3837CB43236CD11B0061655C /* LaunchScreen.storyboard */,
 				3837CB46236CD11B0061655C /* Info.plist */,
 				3837CB3E236CD1190061655C /* ColeccionDeJuegos.xcdatamodeld */,
+				38309EA3236E5CC9007DC11C /* JuegoViewController.swift */,
 			);
 			path = ColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				3837CB3A236CD1190061655C /* ViewController.swift in Sources */,
 				3837CB36236CD1190061655C /* AppDelegate.swift in Sources */,
 				3837CB38236CD1190061655C /* SceneDelegate.swift in Sources */,
+				38309EA4236E5CC9007DC11C /* JuegoViewController.swift in Sources */,
 				3837CB40236CD1190061655C /* ColeccionDeJuegos.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
